@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/txr555/ai-context/main/context/04-trading-know
 
 - **`02-how-to-work-with-me.md` —— 任何任务都必须先读。**
 - `04-trading-knowledge.md` —— 只在讨论交易、行情、策略时读。
+- `14-mql5-freelance.md`（本仓库 `context/14-mql5-freelance.md`）—— 只在接 MQL5 Freelance 接单 / 竞标时读。通用方法论，由 MQL5 接活负责人（域主）维护；运营情报在私有层 `14-mql5-freelance-ops.md`，本文件不含隐私。
 
 ## 私有层：仅本机可读（路径约定）
 
