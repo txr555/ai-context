@@ -36,6 +36,10 @@ https://raw.githubusercontent.com/txr555/ai-context/main/AGENTS.md
 | [`CLAUDE.md`](./CLAUDE.md) | 兼容 Claude Code 的转接文件 | ✅ 完成 |
 | [`context/02-how-to-work-with-me.md`](./context/02-how-to-work-with-me.md) | 沟通偏好 + 协作硬规则 | ✅ 完成 |
 | [`context/04-trading-knowledge.md`](./context/04-trading-knowledge.md) | 交易领域知识：裸 K / 缠论 / 订单流 | 🟡 待补充 |
+| [`多AI协作宪章.md`](./多AI协作宪章.md) | 多 AI 协作通用框架规则（任何 AI 接手前可读） | ✅ 完成 |
+| [`考古提示词-通用版.md`](./考古提示词-通用版.md) | 知识考古主干提示词（怎么挖） | ✅ 完成 |
+| [`考古领域补充包.md`](./考古领域补充包.md) | 考古领域差异补充（挖什么 / 红线） | ✅ 完成 |
+| [`长会话多策略考古提示词.md`](./长会话多策略考古提示词.md) | 超长会话多策略分拆挖掘提示词 | ✅ 完成 |
 
 ## 维护原则
 

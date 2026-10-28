@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/txr555/ai-context/main/context/04-trading-know
 - **`02-how-to-work-with-me.md` —— 任何任务都必须先读。**
 - `04-trading-knowledge.md` —— 只在讨论交易、行情、策略时读。
 - `14-mql5-freelance.md`（本仓库 `context/14-mql5-freelance.md`）—— 只在接 MQL5 Freelance 接单 / 竞标时读。通用方法论，由 MQL5 接活负责人（域主）维护；运营情报在私有层 `14-mql5-freelance-ops.md`，本文件不含隐私。
+- 仓库根目录的 `多AI协作宪章.md` 与考古提示词系列（`考古提示词-通用版.md` / `考古领域补充包.md` / `长会话多策略考古提示词.md`）—— 通用协作框架与「知识考古」专用提示词；**只在做沉淀 / 考古任务时读**，平时不必加载。
 
 ## 私有层：仅本机可读（路径约定）
 
