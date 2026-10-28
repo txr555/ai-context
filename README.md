@@ -9,7 +9,7 @@
 用户发给你的链接大概率是这一个：
 
 ```
-https://raw.githubusercontent.com/txr555/ai-context/main/AGENTS.md
+https://raw.githubusercontent.com/txr555/ai-context-public/main/AGENTS.md
 ```
 
 请把上面这行原样抓取，然后按里面的规则协作。
@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/txr555/ai-context/main/AGENTS.md
 
 | | 公开层（这里） | 私有层（另一个仓库，不公开） |
 |---|---|---|
-| 仓库 | `txr555/ai-context` · **Public** | `txr555/ai-context-private` · **Private** |
+| 仓库 | `txr555/ai-context-public` · **Public** | `txr555/ai-context-private` · **Private** |
 | 谁能看 | 任何人 | 只有本人（对外是 404） |
 | 装什么 | 沟通偏好、交易方法论 | 身份、项目、目标、健康、教训 |
 | AI 怎么用 | 发链接，任何 AI 都能读 | 只在本机读取，不发给任何在线服务 |
@@ -58,4 +58,4 @@ https://raw.githubusercontent.com/txr555/ai-context/main/AGENTS.md
 
 ---
 
-*最后更新：2026-10-22*
+*最后更新：2026-10-28*

@@ -16,8 +16,8 @@
 ## 公开层：直接读这两个
 
 ```
-https://raw.githubusercontent.com/txr555/ai-context/main/context/02-how-to-work-with-me.md
-https://raw.githubusercontent.com/txr555/ai-context/main/context/04-trading-knowledge.md
+https://raw.githubusercontent.com/txr555/ai-context-public/main/context/02-how-to-work-with-me.md
+https://raw.githubusercontent.com/txr555/ai-context-public/main/context/04-trading-knowledge.md
 ```
 
 - **`02-how-to-work-with-me.md` —— 任何任务都必须先读。**
@@ -86,4 +86,4 @@ https://raw.githubusercontent.com/txr555/ai-context/main/context/04-trading-know
 
 ---
 
-*最后更新：2026-10-22*
+*最后更新：2026-10-28*
